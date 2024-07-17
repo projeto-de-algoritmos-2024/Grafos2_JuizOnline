@@ -30,23 +30,23 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo: [Implementação 02]()
 - Autor: [Gabriela](https://github.com/heylisten64)
 
-## Problema 3: []()
+## Problema 3: [Dijkstra?](https://codeforces.com/problemset/problem/20/C)
 
-- Nível: Fácil
+- Nível: Médio
 - Conteúdo: Dijkstra
 - Explicação: [Explicação 03](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/explicacao/explicacao03.md)
 - Implementação: [Código 3](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/codigos/questao03.cpp)
 - Vídeo: [Implementação 03](https://youtu.be/GC7Wtrii8tw)
 - Autor: [Vinicius](https://github.com/viniciused26)
 
-## Problema 4: []()
+## Problema 4: [Minimum spanning tree for each edge](https://codeforces.com/problemset/problem/609/E)
 
 - Nível: Difícil
 - Conteúdo: Kruskal
 - Explicação: [Explicação 04](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/explicacao/explicacao04.md)
 - Implementação: [Código 04](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/codigos/questao04.cpp)
 - Vídeo: [Implementação 04](https://youtu.be/ghAbsIloWew)
-- Autor: [Vinicius](https://github.com/viniciused26))
+- Autor: [Vinicius](https://github.com/viniciused26)
 
 <!--
 ## Screenshots
