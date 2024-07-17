@@ -1,38 +1,65 @@
-**!! Atenção: Renomeie o seu repositório para (Tema)_(NomeDoProjeto). !!** 
+# Exercícios em Juízes Online
 
-Temas:
- - Grafos1
- - Grafos2
- - PD
- - D&C
- - Greed
- - Final 
- 
- **!! *Não coloque os nomes dos alunos no título do repositório*. Exemplo de título correto: Grafos2_Labirinto-do-Minotauro !!**
- 
- (Apague essa seção)
-
-# NomedoProjeto
-
-**Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Número da Lista**: 15 <br>
+**Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
 |Matrícula | Aluno |
 | -- | -- |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
-| xx/xxxxxx  |  xxxx xxxx xxxxx |
+| 17/0010872  |  Gabriela de Oliveira Lemos |
+| 16/0147816 | Vinicius Edwardo Pereira Oliveira |
 
 ## Sobre 
-Descreva os objetivos do seu projeto e como ele funciona. 
+O projeto consiste na resolução de questões que percorrem o conteúdo visto em sala de aula sobre conceitos do segundo módulo da disciplina ainda sobre o conteúdo de grafos. 
 
+## Problema 1: []()
+
+- Nível: 
+- Conteúdo: 
+- Explicação: [Explicação 01]()
+- Implementação: [Código 01]()
+- Vídeo: [Implementação 01]() 
+- Autor: [Gabriela](https://github.com/heylisten64)
+
+## Problema 2: []()
+
+- Nível: 
+- Conteúdo: 
+- Explicação: [Explicação 02]()
+- Implementação: [Código 02]()
+- Vídeo: [Implementação 02]()
+- Autor: [Gabriela](https://github.com/heylisten64)
+
+## Problema 3: []()
+
+- Nível: 
+- Conteúdo: 
+- Explicação: [Explicação 03]()
+- Implementação: [Código 03]()
+- Vídeo: [Implementação 03]()
+- Autor: [Vinicius](https://github.com/viniciused26)
+
+## Problema 4: []()
+
+- Nível: 
+- Conteúdo: 
+- Explicação: [Explicação 04]()
+- Implementação: [Código 04]()
+- Vídeo: [Implementação 04]()
+- Autor: [Vinicius](https://github.com/viniciused26)
+
+<!--
 ## Screenshots
 Adicione 3 ou mais screenshots do projeto em funcionamento.
+-->
 
-## Instalação 
-**Linguagem**: xxxxxx<br>
+## Outras informações
+Linguagens utilizadas: C++
+
+<!-- ## Instalação 
+**Linguagem**: C++<br>
 **Framework**: (caso exista)<br>
-Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
+ Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
 ## Uso 
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
@@ -40,6 +67,7 @@ Explique como usar seu projeto caso haja algum passo a passo após o comando de 
 ## Outros 
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
+-->
 
-
-
+# Considerações finais
+Durante todo o semestre a intenção é integrar esse repositório o máximo possível com anotações sobre o conteúdo e implementação de demais questões presentes na Lista de Exercícios da dupla. Como ainda não foram todas realizadas e uma segunda dupla precisa avaliar o trabalho, limitamos a avaliação entre as questões 1 á 4. 
