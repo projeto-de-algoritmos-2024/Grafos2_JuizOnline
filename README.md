@@ -32,21 +32,21 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 
 ## Problema 3: []()
 
-- Nível: 
-- Conteúdo: 
-- Explicação: [Explicação 03]()
-- Implementação: [Código 03]()
-- Vídeo: [Implementação 03]()
+- Nível: Fácil
+- Conteúdo: Dijkstra
+- Explicação: [Explicação 03](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/explicacao/explicacao03.md)
+- Implementação: [Código 3](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/codigos/questao03.cpp)
+- Vídeo: [Implementação 03](https://youtu.be/GC7Wtrii8tw)
 - Autor: [Vinicius](https://github.com/viniciused26)
 
 ## Problema 4: []()
 
-- Nível: 
-- Conteúdo: 
-- Explicação: [Explicação 04]()
-- Implementação: [Código 04]()
-- Vídeo: [Implementação 04]()
-- Autor: [Vinicius](https://github.com/viniciused26)
+- Nível: Difícil
+- Conteúdo: Kruskal
+- Explicação: [Explicação 04](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/explicacao/explicacao04.md)
+- Implementação: [Código 04](https://github.com/projeto-de-algoritmos-2024/Grafos2_JuizOnline/blob/master/codigos/questao04.cpp)
+- Vídeo: [Implementação 04](https://youtu.be/ghAbsIloWew)
+- Autor: [Vinicius](https://github.com/viniciused26))
 
 <!--
 ## Screenshots
