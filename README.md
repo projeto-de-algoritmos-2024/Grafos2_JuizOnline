@@ -4,29 +4,31 @@
 **Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
-|Matrícula | Aluno |
-| -- | -- |
-| 17/0010872  |  Gabriela de Oliveira Lemos |
+
+| Matrícula  | Aluno                             |
+| ---------- | --------------------------------- |
+| 17/0010872 | Gabriela de Oliveira Lemos        |
 | 16/0147816 | Vinicius Edwardo Pereira Oliveira |
 
-## Sobre 
-O projeto consiste na resolução de questões que percorrem o conteúdo visto em sala de aula sobre conceitos do segundo módulo da disciplina ainda sobre o conteúdo de grafos. 
+## Sobre
 
-## Problema 1: []()
+O projeto consiste na resolução de questões que percorrem o conteúdo visto em sala de aula sobre conceitos do segundo módulo da disciplina ainda sobre o conteúdo de grafos.
 
-- Nível: 
-- Conteúdo: 
-- Explicação: [Explicação 01]()
-- Implementação: [Código 01]()
-- Vídeo: [Implementação 01]() 
+## Problema 1: [Travel by Car](https://atcoder.jp/contests/abc143/tasks/abc143_e)
+
+- Nível: Difícil
+- Conteúdo: Dijkstra
+- Explicação: [Explicação 01](/explicacao/explicacao01.md)
+- Implementação: [Código 01](/codigos/questao01.cpp)
+- Vídeo: [Implementação 01](https://www.youtube.com/watch?v=Fm8Et8I8u9I)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 ## Problema 2: []()
 
-- Nível: 
-- Conteúdo: 
-- Explicação: [Explicação 02]()
-- Implementação: [Código 02]()
+- Nível: Médio
+- Conteúdo:
+- Explicação: [Explicação 02](/explicacao/explicacao02.md)
+- Implementação: [Código 02](/codigos/questao02.cpp)
 - Vídeo: [Implementação 02]()
 - Autor: [Gabriela](https://github.com/heylisten64)
 
@@ -54,20 +56,22 @@ Adicione 3 ou mais screenshots do projeto em funcionamento.
 -->
 
 ## Outras informações
+
 Linguagens utilizadas: C++
 
-<!-- ## Instalação 
+<!-- ## Instalação
 **Linguagem**: C++<br>
 **Framework**: (caso exista)<br>
  Descreva os pré-requisitos para rodar o seu projeto e os comandos necessários.
 
-## Uso 
+## Uso
 Explique como usar seu projeto caso haja algum passo a passo após o comando de execução.
 
-## Outros 
+## Outros
 Quaisquer outras informações sobre seu projeto podem ser descritas abaixo.
 
 -->
 
 # Considerações finais
-Durante todo o semestre a intenção é integrar esse repositório o máximo possível com anotações sobre o conteúdo e implementação de demais questões presentes na Lista de Exercícios da dupla. Como ainda não foram todas realizadas e uma segunda dupla precisa avaliar o trabalho, limitamos a avaliação entre as questões 1 á 4. 
+
+Durante todo o semestre a intenção é integrar esse repositório o máximo possível com anotações sobre o conteúdo e implementação de demais questões presentes na Lista de Exercícios da dupla. Como ainda não foram todas realizadas e uma segunda dupla precisa avaliar o trabalho, limitamos a avaliação entre as questões 1 á 4.
