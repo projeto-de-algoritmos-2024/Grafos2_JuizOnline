@@ -23,7 +23,7 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 - Vídeo: [Implementação 01](https://www.youtube.com/watch?v=Fm8Et8I8u9I)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
-## Problema 2: []()
+## Problema 2: [Help the old King](https://www.spoj.com/problems/IITKWPCG/)
 
 - Nível: Médio
 - Conteúdo: Prim
