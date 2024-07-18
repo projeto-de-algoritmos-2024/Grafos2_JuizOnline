@@ -26,10 +26,10 @@ O projeto consiste na resolução de questões que percorrem o conteúdo visto e
 ## Problema 2: []()
 
 - Nível: Médio
-- Conteúdo:
+- Conteúdo: Prim
 - Explicação: [Explicação 02](/explicacao/explicacao02.md)
 - Implementação: [Código 02](/codigos/questao02.cpp)
-- Vídeo: [Implementação 02]()
+- Vídeo: [Implementação 02](https://heylisten64.notion.site/Video-Questao-02-79179e4265f4460a9cbd204d4662aa88?pvs=4)
 - Autor: [Gabriela](https://github.com/heylisten64)
 
 ## Problema 3: [Dijkstra?](https://codeforces.com/problemset/problem/20/C)
